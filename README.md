@@ -12,19 +12,20 @@ read the data file
 
 
 
+           ----------------------------------------------------------------------------------------------------------------------------------------------------
 
+#TMDB MOVIE DATA INVETIGATION
+##Table of Contents
+#Introduction
+##Data Wrangling
+###Exploratory Data Analysis
+####Conclusions
 
-TMDB MOVIE DATA INVETIGATION
-Table of Contents
-Introduction
-Data Wrangling
-Exploratory Data Analysis
-Conclusions
-Introduction
+#Introduction
 IMDb is andatabase of information related to films, television programs, home videos, video games, and streaming content online including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews. From this big database, a sub database was created which is "The Movie Database (TMDb) was created. The Movie Database (TMDb) is a community built movie and TV database. Every piece of data has been added by this amazing community dating back to 2008. The data set -we are going to investigate- contains information about 10,000 movies collected from The Movie Database (TMDb)
 
-I will try to answer some questions ;
+#I will try to answer some questions ;
 
-Find fifth Adventure movies in the top and bottom with revenue, and are those two things related ?
-What's the average Run Time for the movies and Does it affect the popularity ?
-Does Adventure movies get better with years ?
+#Find fifth Adventure movies in the top and bottom with revenue, and are those two things related ?
+#What's the average Run Time for the movies and Does it affect the popularity ?
+#Does Adventure movies get better with years ?
